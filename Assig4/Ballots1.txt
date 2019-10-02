@@ -1,0 +1,5 @@
+4
+1:What is my name?:Stefon,Stefan,Stefuno,Steruno,Stephon,Stephan,Sto
+2:What is my last name?:Miller,Milla,Millet,Milley,MI
+3:Who am I?:Idek,me either,who knows,idc,fuck yourself
+4:How old am I?:1,7,57,243,29,18

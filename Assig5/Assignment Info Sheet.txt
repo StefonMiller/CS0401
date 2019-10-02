@@ -1,0 +1,37 @@
+Stefon Miller
+
+Assignment 5
+
+Tuesday Lab at 11AM
+Reed Armstrong
+
+Due 12/7/15
+Submitted 12/7/15
+
+Source code names:
+MyPoly.java
+Assig5.java
+Assig5b.java
+
+.class names:
+MyPoly.class
+Assig5.class
+Assig5b.class
+Assig5$1.class
+Assig5$ButtonHandler.class
+Assig5$MenuHandler.class
+Assig55$ShapePanel$MMyMouser.class
+Assig5$ShapePanel.class
+Assig5b$1.class
+Assig5b$ButtonHandler.class
+Assig5b$MenuHandler.class
+Assig5b$ShapePanel$MyMouser.class
+Assig5b$ShapePanel.class
+
+Other names:
+face2.txt(used for testing)
+
+Program compiles w/out error
+
+Program runs without error
+

@@ -1,0 +1,4 @@
+iPad:2
+Kindle:0
+Nexus:0
+Surface:0
