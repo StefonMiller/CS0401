@@ -1,3 +1,0 @@
-CS0401 Fall 2015
-
-This is a voting program utilizing java GUI
