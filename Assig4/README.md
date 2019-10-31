@@ -1,1 +1,1 @@
-This program reads a text file in and creates a ballot GUI for it.  In addition, it keeps track of user stats by having a login system.
+This program reads in a series of questions and creates a custom ballot GUI for it.
