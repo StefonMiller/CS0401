@@ -1,2 +1,3 @@
 # CS0401
-CS0401 with John Ramirez fall 2015
+University of Pittsburgh CS0401: Intermediate Programming with Java
+Fall 2015
